@@ -1,4 +1,4 @@
-# Avito security day ctf
+# Avito security day ctf 2019
 
 Have made some web app security challenges for guys from Avito
 
@@ -15,7 +15,7 @@ After that app will be avaliable on:
 - http://localhost:8005
 
 
-# Avito webpentest workshop 
+# Avito webpentest workshop 2022
 
 To run app just type:
 
