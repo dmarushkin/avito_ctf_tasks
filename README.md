@@ -14,6 +14,20 @@ After that app will be avaliable on:
 - http://localhost:8004
 - http://localhost:8005
 
+# Avito bag auth logic workshop 2021
+
+Some ctf tasks for auth logic problems
+
+To run app just type:
+
+`docker-compose up -d`
+
+# Avito web task for YauzaCTF 2021
+
+To run app just type:
+
+`docker-compose up -d`
+
 
 # Avito webpentest workshop 2022
 
